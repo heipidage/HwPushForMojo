@@ -1,4 +1,6 @@
 *.pl
+*.sh
+*.cron
 
 # Built application files
 *.apk

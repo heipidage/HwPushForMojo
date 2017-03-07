@@ -4,5 +4,5 @@ perl get.pl
 wait
 git add .
 git commit -m 'update'
-git push origin master 
+git push --force origin master 
 echo "Done"

@@ -1,1 +1,1 @@
-0 7 * * * /root/HwPushForMojo/autoget.sh
+0 7 * * * source /root/HwPushForMojo/autoget.sh

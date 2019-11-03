@@ -1,1 +1,2 @@
-CF3GnDIOjTPnDzV0P+zZlrJ78nDlcsliv4uqAzJoS4qgkbN5Rn5YbRPvmP7TmjSFEtQU+csSUZsW/edHa2t78w==
+HTTP POST error code: 500
+HTTP POST error message: Can't connect to login.vmall.com:443 (SSL connect attempt failed because of handshake problems)
